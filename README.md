@@ -1,4 +1,4 @@
-# Script.Library: Your Digital Lockpick & Swiss Army Chainsaw
+# The Script.Library: Your Digital Swiss Army Chainsaw
 
 <div align="center">
   <img src="https://raw.githubusercontent.com/YourUsername/Github/main/.images/script-library-hero.png" alt="Script Library Hero" width="600">
