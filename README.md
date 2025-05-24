@@ -1,7 +1,7 @@
 # Script.Library: Your Digital Lockpick & Swiss Army Chainsaw
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/sanchez314c/Script.Library/main/scripts.library-hero.webp" alt="Script Library Hero" width="35%">
+  <img src="https://raw.githubusercontent.com/sanchez314c/Script.Library/main/scripts.library-hero.webp" alt="Script Library Hero" width="75%">
 </div>
 
 <br>
