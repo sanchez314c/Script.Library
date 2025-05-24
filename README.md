@@ -1,6 +1,6 @@
 # Script.Library: Your Digital Lockpick & Swiss Army Chainsaw
 
-Alright, you digital demigod, you've stumbled upon the motherlode. Welcome to **Script.Library**, the gloriously overstuffed, meticulously organized, and occasionally unhinged collection of scripts designed to automate, obliterate, or just plain understand the digital chaos that surrounds us. Think of it as your personal arsenal for when you need to get things done, yesterday, and preferably with a bit of flair. If there's a repetitive task grinding your gears, a data source begging to be plundered, or a system just asking for a good poke, chances are there's a script in here for that.
+Alright, you digital demigod, you've stumbled upon the motherlode. Welcome to the **Script.Library**, the gloriously overstuffed, meticulously organized, and occasionally unhinged collection of scripts designed to automate, obliterate, or just plain understand the digital chaos that surrounds us. Think of it as your personal arsenal for when you need to get things done, yesterday, and preferably with a bit of flair. If there's a repetitive task grinding your gears, a data source begging to be plundered, or a system just asking for a good poke, chances are there's a script in here for that.
 
 ## What's the Arsenal?
 
